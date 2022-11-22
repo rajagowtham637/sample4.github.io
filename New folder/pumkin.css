@@ -1,0 +1,77 @@
+
+body {
+    width:800px;
+    margin:0 auto;
+    padding:1.em;
+    height:678px;
+    border:5px solid rgb(0, 0, 0);
+    box-shadow: 0px 0px 10px 6px rgb(20 20 20);
+
+}
+.header {
+    border-bottom:3px solid #000000;
+    padding: 1.2em 0;
+    background-image: linear-gradient( 30deg, #e8e5e0 0%, #ffedbe 30%, rgb(243, 165, 20) 50%, #d69d0b 80%, #030303 100%);
+
+}
+ul li a{
+    list-style-type:square;
+    color:orange;
+    font-family: sans-serif;
+text-align: left;
+}
+
+.header{
+   
+    width: 800px;
+    margin-left: 0px;
+}
+.header img{
+    float: left;
+   
+}
+
+.header h2{
+    margin: 0 0 0em 2.5em;
+    font-size: 250%;
+    font-style: normal;
+    font-weight: 800;
+    color:black;
+   /* text-shadow: 2px 2px 2px black;*/
+    font-family: sans-serif;
+}
+.header h3{
+    margin: 0 0 1em 6.5em;
+    font-size: 1em;
+    font-family: sans-serif;
+}
+.section{
+    padding: 2em;
+}
+h1{
+    font-size: 1.3em;
+    margin: 1em 0 0 0;
+    font-family: sans-serif;
+}
+h2{
+    font-size: 1.3em;
+    font-family: sans-serif;
+    
+}
+h3{
+    font-size: 1.3em;
+    font-family: sans-serif;
+}
+p{
+    font-family: sans-serif;
+}
+footer{
+    border-top:3px solid #000000;
+    padding: 1em 0;
+    background-image: linear-gradient( 30deg, #000000 0%, #ffb700 30%, rgb(250, 186, 68) 50%, #ffedbe 80%, #ffffff 100%);
+}
+footer p{
+    margin-left: 2em;
+    margin-top: 0px;
+    margin-bottom:0px;
+}

@@ -1,0 +1,52 @@
+body {
+    width:600px;
+    margin:0 auto;
+    padding:1em;
+    height:580px;
+    border: 2px solid navy;
+}
+ul li a{
+    list-style-type:square;
+    color:orange;
+    font-family: sans-serif;
+
+}
+.header{
+   
+    width: 600px;
+}
+.header img{
+    float: left;
+   
+}
+
+.header h2{
+    margin: 0 0 1em 3.5em;
+    font-size: 180%;
+    font-style: italic;
+    color:orange;
+    text-shadow: 2px 2px 2px black;
+    font-family: sans-serif;
+}
+.header h3{
+    margin: 0 0 1em 6.5em;
+    font-size: 1em;
+    font-family: sans-serif;
+}
+h1{
+    font-size: 1.3em;
+    margin: 1em 0 0 0;
+    font-family: sans-serif;
+}
+h2{
+    font-size: 1.3em;
+    font-family: sans-serif;
+    
+}
+h3{
+    font-size: 1.3em;
+    font-family: sans-serif;
+}
+p{
+    font-family: sans-serif;
+}

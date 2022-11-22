@@ -1,0 +1,52 @@
+html{
+	background-color:white;
+}
+
+body{
+	font-family: Arial,Helvetica,sans-serif;
+	font-size: 100%;
+	width: 550px;
+	margin: 0 auto;
+	padding: 10em;
+	border: 3px solid rgb(8, 236, 236);
+	border: 1px solid rgb(22, 228, 235);
+    background-color: black; 
+}
+  
+  h1{
+   margin: 0;
+   padding: .25em;
+   font-size: 200%;
+   color: rgb(7, 240, 248);
+  }
+  h2{
+	margin: 0;
+	padding: .25em;
+	font-size: 200%;
+	color: rgb(8, 236, 236);
+   }
+  
+  img{
+	float: left;
+	margin: 0 5em;
+  }
+  
+  p1{
+	margin: 0;
+	padding-bottom: .5em;
+	color: rgb(8, 236, 236);
+  }
+  img{
+	border:1px solid white;
+  }
+  ul{
+	font-size: 20px;
+	color: rgb(8, 236, 236);
+  }
+   ol{
+	font-size: 20px;
+	color: rgb(8, 236, 236);
+   }
+  b{
+	color: rgb(8, 236, 236);
+  }
